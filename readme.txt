@@ -1,0 +1,1 @@
+you have to make one page either signup or forgot password,you deicide
